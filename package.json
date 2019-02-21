@@ -1,7 +1,7 @@
 {
   "name": "prevent-input-number",
   "version": "1.0.0",
-  "main": "https://github.com/saculbr/prevent-input-number",
+  "main": "index.js",
   "repository": "https://github.com/saculbr/prevent-input-number",
   "author": "lucasljj",
   "license": "MIT",
