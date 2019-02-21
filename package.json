@@ -1,0 +1,12 @@
+{
+  "name": "prevent-input-number",
+  "version": "1.0.0",
+  "main": "https://github.com/saculbr/prevent-input-number",
+  "repository": "https://github.com/saculbr/prevent-input-number",
+  "author": "lucasljj",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "typescript": "^3.3.3"
+  }
+}
